@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Porsche Panamera",
+        "price": 1300000,
+        "year": 2029,
+        "contact": {
+            "dealer": "Daniel",
+            "number": "111-111-2222"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Bentley",
+        "price": 215000,
+        "year": 2021,
+        "contact": {
+            "dealer": "Milena",
+            "number": "888-888-8888"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Ford",
+        "price": 5000,
+        "year": 2005,
+        "contact": {
+            "dealer": "Hilario",
+            "number": "111-111-2222"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Land Lover",
+        "price": 85000,
+        "year": 2019,
+        "contact": {
+            "dealer": "Victoria",
+            "number": "111-111-2222"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Nissan",
+        "price": 25000,
+        "year": 2018,
+        "contact": {
+            "dealer": "Lucas Carlim",
+            "number": "111-111-2222"
+        }
+    }
+]
